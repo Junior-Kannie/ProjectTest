@@ -9,7 +9,7 @@ namespace GitHub_Test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            WebBrowser browser  
+            WebBrowser browser;
         }
     }
 }
